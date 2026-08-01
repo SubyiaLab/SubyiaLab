@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SubyiaLab
 - 👀 I’m interested in Gaming, Music, Cooking, Arts & Language Learning(Humen lang)
-- 🌱 I’m currently learning Web Development (FullStack)
-- 💞️ I’m looking to collaborate on All sort of Web Related Apps once I get Competent :)
-- 📫 How to reach me @alghadouri_ 
+- 🌱 I’m currently learning LLM Development
+
 
 <!---
 SubyiaLab/SubyiaLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
